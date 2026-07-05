@@ -135,12 +135,10 @@ topics covered, problems solved, and notes on weak areas.
 ```
 backend-dev-prep/
 ├── README.md                    # overview + roadmap + how to use
-├── progress.md                  # weekly log
+├── progress.md         #weekly log
+|
 ├── sql/
-│   ├── joins/
-│   ├── aggregations/
-│   ├── window-functions/
-│   └── subqueries/
+│  
 ├── dbms/
 │   └── notes.md
 ├── os/
@@ -148,10 +146,7 @@ backend-dev-prep/
 ├── cn/
 │   └── notes.md
 ├── dsa/
-│   ├── arrays/
-│   ├── linked-lists/
-│   ├── trees/
-│   └── dp/
+│  
 └── projects.md
 ```
 
