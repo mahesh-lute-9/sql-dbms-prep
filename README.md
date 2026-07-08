@@ -151,8 +151,7 @@ backend-dev-prep/
 ```
 
 ## 📌 Notes
-- SQL solutions are named for what they solve (e.g. `second-highest-salary.sql`) 
-  with a comment on the reasoning — not just the query, but why that approach.
+- SQL solutions having not just the query, but why that approach.
 - DSA solutions include the pattern used and the reasoning, not just the code.
 - OS and CN notes are structured around interview topics, not textbook chapters.
 - Standalone Spring Boot projects live in their own repos, linked from `projects.md`.
